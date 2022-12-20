@@ -1,3 +1,21 @@
+Skip to content
+FireWall-IN
+/
+Portfolio_IN
+Public template
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+More
+Portfolio_IN/style.css
+@FireWall-IN
+FireWall-IN white portfolio begin
+ History
+ 1 contributor
+107 lines (90 sloc)  2.17 KB
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans&family=Oswald:wght@300&display=swap');
 
 body {
@@ -105,3 +123,18 @@ nav ul li:hover {
 .page-content img:hover {
     filter: brightness(50%);
 }
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Portfolio_IN/style.css at a63634805f84227bdaef71021ec796dfb02946e1 · FireWall-IN/Portfolio_IN
